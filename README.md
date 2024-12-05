@@ -12,3 +12,6 @@ Welcome to my portfolio, where I showcase projects that demonstrate my analytica
 Languages: Python, SQL, R
 Databases: PostgreSQL, MySQL
 Analysis Tools: Jupyter Notebooks, Excel, Google Sheets
+
+👋🏻 Connect with Me
+[Linkedin](https://www.linkedin.com/in/erica-greene15/)
