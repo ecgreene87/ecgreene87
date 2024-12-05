@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello, I'm Erica. Data Analyst with expertise in data analysis, reporting, and technical problem-solving.
 
-<!--
-**ericagreene87/ericagreene87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Querying and analyzing data using SQL and Python.
+Performing data cleaning and visualzation using Python and R.
+Leveraging insights from data to support decision-making and improve processes.
 
-Here are some ideas to get you started:
+📚 Projects
+Welcome to my portfolio, where I showcase projects that demonstrate my analytical skills and passion for data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools
+
+Languages: Python, SQL, R
+Databases: PostgreSQL, MySQL
+Analysis Tools: Jupyter Notebooks, Excel, Google Sheets
