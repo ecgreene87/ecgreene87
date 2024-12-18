@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/6b9c56f7-3b44-4fb2-a27f-47828dcaa7d7)
+
+
+
 Hello, I'm Erica. Data Analyst with expertise in data analysis, reporting, and technical problem-solving.
 
 Querying and analyzing data using SQL and Python.
