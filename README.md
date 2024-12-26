@@ -7,7 +7,7 @@ Hello, I'm Erica. Data Analyst with expertise in data analysis, reporting, and t
 Querying and analyzing data using SQL and Python. Performing data cleaning and visualzation using Python and R. Leveraging insights from data to support decision-making and improve processes.
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase projects that demonstrate my analytical skills and passion for data-driven solutions.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/ericagreene87/Udacity-Data-Analytics-Nanodegree/blob/main/README.md)
 
 ## 🛠️ Tools
 Languages: Python, SQL, R
