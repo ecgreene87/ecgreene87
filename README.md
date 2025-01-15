@@ -2,19 +2,25 @@
 
 
 
-Hello, I'm Erica. Data Analyst with expertise in data analysis, reporting, and technical problem-solving.
+## 👋🏾 About Me
+Hello! I'm Erica, a Data Analyst with expertise in data analysis, reporting, and technical problem-solving.
 
-Querying and analyzing data using SQL and Python. Performing data cleaning and visualzation using Python and R. Leveraging insights from data to support decision-making and improve processes.
+I specialize in:
+
+<li>Querying and analyzing and querying data using SQL and Python.</li>
+<li>Performing data cleaning, data modeling, and visualization with Python, SQL and R.</li>
+<li>Applying supervised and unsupervised machine learning techniques to uncover insights and improve processes.</li>
+<li>Building and optimizing data pipelines to streamline workflows and ensure data accuracy for decision-making.</li>
 
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/ericagreene87/Udacity-Data-Analytics-Nanodegree/blob/main/README.md)
 
 ## 🛠️ Tools
-Languages: Python, SQL, R
-
-Databases: PostgreSQL
-
-Analysis Tools: Jupyter Notebooks, Excel, Google Sheets
+<li>Languages: Python, SQL, R</li>
+<li>Databases: PostgreSQL</li>
+<li>Machine Learning: Supervised and unsupervised learning models</li>
+<li>Analysis Tools: Jupyter Notebooks, Excel, Google Sheets</li>
+<li>Data Engineering: ETL pipelines, data modeling</li>
 
 ## 👋🏻 Connect with Me
 [Linkedin](https://www.linkedin.com/in/erica-greene15/)
